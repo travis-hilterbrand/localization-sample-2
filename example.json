@@ -1,7 +1,7 @@
 {
   "application": "Example",
   "locale": "en-US",
-  "creationTime": "6/16/2021, 12:38:01 PM",
+  "creationTime": "11/18/2021, 2:04:30 PM",
   "resources": [
     {
       "key": "STRING_1",
@@ -9,11 +9,7 @@
     },
     {
       "key": "STRING_2",
-      "value": "This is another sample string"
-    },
-    {
-      "key": "STRING_3",
-      "value": "This string will be removed in the future"
+      "value": "This is a sample string that has been updated"
     }
   ]
 }
